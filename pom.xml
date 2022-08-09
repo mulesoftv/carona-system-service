@@ -33,8 +33,8 @@
 	  <cloudHubDeployment>
       <uri>https://anypoint.mulesoft.com</uri>
       <muleVersion>4.4.0</muleVersion>
-      <username>Legend2</username>
-      <password>Brilliance@1</password>
+      <username>${username}</username>
+      <password>${password}</password>
 	  <environment>Sandbox</environment>
       <applicationName>carona-app-services</applicationName>
       <businessGroup>Brilliance</businessGroup>
